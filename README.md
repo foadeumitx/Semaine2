@@ -13,4 +13,5 @@ Egalement le rôle des bases de données.
 ##Codecademy
 
 J'ai abordé les bases de l'HTML. J'ai acquis mon premier badge. 
-[Badge 1](https://www.codecademy.com/fr/users/maximef/achievements)
+[Badge les B.A.B.A du langage HTML](https://www.codecademy.com/fr/users/maximef/achievements)
+[Badge CSS](https://www.codecademy.com/fr/users/maximef/achievements)
